@@ -4,10 +4,10 @@ This project is an imitation of Spotify (only the front-end part). This project 
 [**You can visit the deployed project here**](https://spotify-clone-3ae78.web.app/).
 
 ## LOGIN UI
-![image](Image\LoginUI.png)
+![login](https://raw.githubusercontent.com/uditmishr/SpotifyClone/main/Image/LoginUI.png)
 
 ## AFTER LOGIN UI-1
-![image](Image\UI.png)
+![home-1](https://raw.githubusercontent.com/uditmishr/SpotifyClone/main/Image/UI.png)
 
-## AFTER LOGIN UI-1
-![image](Image\UI@.png)
+## AFTER LOGIN UI-2
+![home-2](https://raw.githubusercontent.com/uditmishr/SpotifyClone/main/Image/UI%40.png)
